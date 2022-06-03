@@ -1,0 +1,1 @@
+This week's task was to make a back end for an e-commerce site by using an express.js API and making it work with mysql.
